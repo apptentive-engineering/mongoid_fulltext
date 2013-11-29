@@ -4,7 +4,7 @@ Mongoid Fulltext Search [![Build Status](https://secure.travis-ci.org/artsy/mong
 Full-text search using n-gram matching for the Mongoid ODM. Tested on MongoDB 1.6 and above, but
 probably works on earlier versions as well.
 
-Forked from sebastian-railwaymen/mongoid_fulltext
+Forked from  [artsy/mongoid_fulltext](https://github.com/artsy/mongoid_fulltext) via [sebastian-railwaymen/mongoid_fulltext](https://github.com/sebastian-railwaymen/mongoid_fulltext)
 
 Made this Version ready for Rails 4 with Mongoid 4.0.0 (Branch mongoid-4-test) 
 Works fine in my application.
