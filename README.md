@@ -6,8 +6,9 @@ probably works on earlier versions as well.
 
 Forked from  [artsy/mongoid_fulltext](https://github.com/artsy/mongoid_fulltext) via [sebastian-railwaymen/mongoid_fulltext](https://github.com/sebastian-railwaymen/mongoid_fulltext)
 
-Made this Version ready for Rails 4 with Mongoid 4.0.0 (Branch mongoid-4-test) 
-Works fine in my application.
+Made this Version ready for Rails 4 with Mongoid 4.0.0 ([Branch mongoid-4-test](https://github.com/tomg65/mongoid_fulltext/tree/mongoid-4-test)) 
+
+Works fine in my rails 4 application.
 
 MongoDB currently has no native full-text search capabilities, so this gem is a good fit for cases
 where you want something a little less than a full-blown indexing service like Solr. mongoid_fulltext
